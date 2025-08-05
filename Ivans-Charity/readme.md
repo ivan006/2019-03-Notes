@@ -5,7 +5,13 @@ Currency: ZAR.
 Total over all time: Rx.
 Percent of net income given: As of 2022-05 roughly 3%
 
-
+- 2025-08: 500
+- 2025-07: 0
+- 2025-06: 0
+- 2025-05: 0
+- 2025-04: 0
+- 2025-03: 0
+- 2025-02: 0
 - 2025-01: 500
 - 2024-12: 500
 - 2024-11: 500
